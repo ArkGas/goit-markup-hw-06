@@ -1,1 +1,1 @@
-https://arkgas.github.io/goit-markup-hw-04/
+https://arkgas.github.io/goit-markup-hw-06/
